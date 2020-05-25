@@ -1,0 +1,23 @@
+.user-list {
+
+}
+
+.user-plus-icon {
+    position: relative;
+}
+
+.plus-icon, .user-icon {
+    color: lightgrey;
+}
+
+.user-icon {
+    font-size: 4rem;
+}
+
+.plus-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #F7F7F7;
+    border-radius: 50%;
+}
